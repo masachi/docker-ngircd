@@ -1,0 +1,1 @@
+auth  required  pam_pwdfile.so pwdfile=/usr/local/etc/ngircd/ngircd.passwd
